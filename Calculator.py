@@ -11,6 +11,7 @@ if __name__=="__main__":
    b = int(input("enter the 2nd no"))
 
    add=add2no(a,b)
+   print(add)
    sub=sub2no(a,b)
    print(sub)
    mul=mul2no(a,b)
